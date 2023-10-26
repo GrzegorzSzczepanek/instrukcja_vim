@@ -5,4 +5,4 @@ Plik instrukcja_vim.md zawiera podstawowe polecenia potrzebne do obsługi vima, 
 Instrukcja jest zapisana jako markdown
 
 ## Prosta dokumentacja w sphinksie
-Zawiera ona trzy rozdziały ze znikomą treścią.
+Zawiera ona trzy rozdziały ze znikomą treścią. Znajduje się w folderze source.
