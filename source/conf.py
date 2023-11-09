@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'grzegorz_szczepanek_280678'
+project = '09.011.2023'
 copyright = '2023, Grzegorz Szczepanek'
 author = 'Grzegorz Szczepanek'
 release = '1.0.0'
