@@ -1,26 +1,48 @@
-.. zadanie2 documentation master file, created by
-   sphinx-quickstart on Thu Oct 26 15:48:55 2023.
+.. 09.011.2023 documentation master file, created by
+   sphinx-quickstart on Thu Nov  9 15:19:12 2023.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Dokument z laboratorium!
-====================================
+Welcome to 09.011.2023's documentation!
+=======================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-Chapter1
-=========
-treść
+Rozdział 1
+===========
+Dowolna treśćDowolna treśćDowolna treśćDowolna treść
+DDowolna treśćDowolna treśćDowolna treśćDowolna treść
 
-Chapter2
-=========
-tresc 2
+Podrozdział 1.1
+----------------
+owolna treśćDowolna treśćDowolna treśćDowolna treść
 
-Chapter3
-=========
-tresc 3
+Rozdział 2
+===========
+Dowolna treśćDowolna treśćDowolna treśćDowolna treść
+DDowolna treśćDowolna treśćDowolna treśćDowolna treść
+
+Podrozdział 2.1
+----------------
+owolna treśćDowolna treśćDowolna treśćDowolna treść
+
+
+Rozdział 3
+===========
+Dowolna treśćDowolna treśćDowolna treśćDowolna treść
+DDowolna treśćDowolna treśćDowolna treśćDowolna treść
+
+Podrozdział 3.1
+----------------
+owolna treśćDowolna treśćDowolna treśćDowolna treść
+
+
+
+
+
+
 
 Indices and tables
 ==================

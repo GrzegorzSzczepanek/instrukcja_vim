@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'zadanie2'
-copyright = '2023, GrzegorzSzczepanek'
-author = 'GrzegorzSzczepanek'
-release = '0.0.1'
+project = '09.011.2023'
+copyright = '2023, Grzegorz Szczepanek'
+author = 'Grzegorz Szczepanek'
+release = '1.0.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
